@@ -1,0 +1,6 @@
+google-adk>=1.18.0
+google-auth>=2.35.0
+requests>=2.32.0
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+tenacity>=9.0.0

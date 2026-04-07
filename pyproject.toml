@@ -1,0 +1,12 @@
+[project]
+name = "gcp-network-adk"
+version = "0.1.0"
+description = "Google ADK multi-agent app for GCP Network Analyzer insights and remediation guidance"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
